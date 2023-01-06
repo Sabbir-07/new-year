@@ -1,0 +1,180 @@
+* {
+    margin: 0;
+
+    font-family: 'Work Sans';
+}
+
+/* header and banner section  */
+/* .header{
+    margin-top: 0;
+} */
+header {
+    background-image: url('images/banner/banner2.png');
+    width: 100%;
+    height: 100vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin: 0 auto;
+    margin-bottom: 130px;
+
+}
+
+.main-title {
+    font-weight: 700;
+    font-size: 65px;
+    line-height: 76px;
+    color: #151414;
+
+}
+
+.description {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    color: #444343;
+    margin-bottom: 30px;
+
+}
+
+.banner-btn {
+    background: #F15B22;
+    border-radius: 5px;
+    width: 160px;
+    height: 64px;
+    font-weight: 600;
+    font-size: 20px;
+    color: #FFFFFF;
+    border: 0;
+}
+
+.banner-item {
+    text-align: right;
+    padding-top: 216px;
+    padding-right: 230px;
+    padding-left: 845px;
+    padding-bottom: 365px;
+}
+
+/* file description section */
+.details {
+    max-width: 1172px;
+    margin: 125px 250px;
+}
+
+.title {
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 47px;
+    color: #151414;
+    margin-bottom: 24px;
+}
+
+.detils-item {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 87px;
+}
+
+.extra li {
+    list-style: none;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px
+}
+
+/* my plan section  */
+.plan-section {
+    margin: 125px 250px
+}
+
+.item {
+    display: flex;
+    justify-content: center;
+    gap: 129px;
+}
+
+.sub-title {
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 35px;
+    color: #151414;
+    margin-top: 24px;
+    margin-bottom: 16px;
+
+}
+
+/* gradient-image section  */
+
+.image-gradient {
+    margin: 125px 230px;
+}
+
+/* last section  */
+.footer {}
+
+footer {
+
+    background: #151414;
+    padding: 131px;
+
+}
+
+.footer-item {
+    display: flex;
+    gap: 250px;
+}
+
+.footer-title {
+    font-weight: 700;
+    font-size: 45px;
+    line-height: 53px;
+    color: #F8F8F8;
+
+}
+
+.footer-description {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    color: #FFFFFF;
+    margin: 16px;
+
+}
+
+.footer-sub-title {
+    font-weight: 600;
+    font-size: 25px;
+    line-height: 29px;
+    color: #FFFFFF;
+    margin-bottom: 31px;
+}
+
+.header-button {
+
+    width: 170.11px;
+    height: 64px;
+    left: 1046px;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 24px;
+    color: #F15B22;
+    background: #FFFFFF;
+    border-radius: 8px;
+    margin-top: 16px;
+}
+
+input[type=email] {
+    width: 280px;
+    height: 54px;
+    left: 1046px;
+    font-weight: 600;
+    font-size: 20px;
+    font
+    color:#FFFFFF;
+    background-color:#151414;
+    border: 2px solid #FFFFFF;
+    border-radius: 8px;
+    margin-top: 16px;
+}
