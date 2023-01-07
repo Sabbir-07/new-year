@@ -71,6 +71,7 @@ header {
     line-height: 47px;
     color: #151414;
     margin-bottom: 50px;
+    
 }
 
 .f-description {
@@ -137,9 +138,40 @@ header {
 }
 
 .watch-content {
-    padding: 11% 5%;
+    padding: 4% 5%;
     max-width: 40%;
 }
+/****************************** Bonus Section  ************************/
+.bonus{
+    max-width: 80%;
+    margin: 5% auto ;
+}
+.bonus-container{
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+}
+
+.bonus-extra{
+    display: flex;
+    justify-content: center;
+    
+}
+.bonus-title{
+    font-size: 24px;
+    margin: 12px;
+    
+}
+
+.bonus-description{
+
+    font-size: 18px;
+    margin: 10px;
+}
+    .spacing{
+        margin-left: 10px;
+
+    }
 
 /************************* Footer section  *****************************/
 .footer {}
@@ -212,3 +244,5 @@ input[type=email] {
     background-color: #151414;
 
 }
+
+/***********************The End*******************/
