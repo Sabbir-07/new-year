@@ -64,8 +64,9 @@ header {
     margin: 8% auto;
     justify-content: center;
     align-items: center;
-    gap: 87px;
+    gap: 50px;
 }
+
 
 
 ul li {
@@ -77,9 +78,7 @@ ul li::before {
     color: green;
     margin-right: 10px;
 }
-.test{
-    margin-right: 20px;
-}
+
 
 
 
